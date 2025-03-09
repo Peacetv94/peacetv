@@ -4,8 +4,4 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-TARGETDURATION:2
 #EXTINF:2,
-https://cors-proxy.cooks.fyi/https://vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553137.ts
-#EXTINF:2,
-https://cors-proxy.cooks.fyi/https://vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553138.ts
-#EXTINF:2,
-https://cors-proxy.cooks.fyi/https://vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553139.ts
+https://cors-proxy.cooks.fyi/https://vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2.m3u8?txSecret=7a7b17cefbbe4aacff6a0b403ea90553&txTime=67ce2857
