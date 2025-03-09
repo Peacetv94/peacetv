@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-TARGETDURATION:2
-#EXTINF:2,
-https://vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2.m3u8?txSecret=7a7b17cefbbe4aacff6a0b403ea90553&txTime=67ce2857
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:10.000000,
+https://cors-proxy.cooks.fyi/212.102.60.231/USA_Network/tracks-v1a1/mono.ts
