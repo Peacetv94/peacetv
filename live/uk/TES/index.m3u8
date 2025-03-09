@@ -4,4 +4,4 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/212.102.60.231/USA_Network/tracks-v1a1/mono.ts
+https://cors-proxy.cooks.fyi/http://212.102.60.231/USA_Network/tracks-v1a1/mono.ts
