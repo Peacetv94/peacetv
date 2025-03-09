@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
+#EXT-X-ALLOW-CACHE:NO
 #EXT-X-MEDIA-SEQUENCE:1741553137
 #EXT-X-TARGETDURATION:2
 #EXTINF:2,
-https://cors-proxy.cooks.fyi/vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553137.ts?txspiseq=109185565460512832328
+https://cors-proxy.cooks.fyi/vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553137.ts
 #EXTINF:2,
-https://cors-proxy.cooks.fyi/vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553138.ts?txspiseq=109185565460512832328
+https://cors-proxy.cooks.fyi/vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553138.ts
 #EXTINF:2,
-https://cors-proxy.cooks.fyi/vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553139.ts?txspiseq=109185565460512832328
+https://cors-proxy.cooks.fyi/vt-osoi7r4b.sportcdn.live/live/live-1-4144015-2-1741553139.ts
