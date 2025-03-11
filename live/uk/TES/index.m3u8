@@ -4,8 +4,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-https://cors-proxy.cooks.fyi/extraott.com/live/3969424152/3723991250/104_0.ts
+https://cors-proxy.cooks.fyi/http://extraott.com/live/3969424152/3723991250/104_0.ts
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/extraott.com/live/3969424152/3723991250/104_1.ts
+https://cors-proxy.cooks.fyi/http://extraott.com/live/3969424152/3723991250/104_1.ts
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/extraott.com/live/3969424152/3723991250/104_2.ts
+https://cors-proxy.cooks.fyi/http://extraott.com/live/3969424152/3723991250/104_2.ts
